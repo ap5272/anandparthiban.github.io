@@ -1,5 +1,5 @@
-### Welcome to Anand Parthiban's Website ###
+# Welcome to Anand Parthiban's Website 
 
 
-## Portfolio of HTML/JS projects ##
+## Portfolio of HTML/JS projects 
 
